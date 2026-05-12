@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 15:25:44 2026
 
-@author: User
+@author: dipak
 """
 
 # Example list
