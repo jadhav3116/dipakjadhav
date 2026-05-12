@@ -2,13 +2,13 @@
 """
 Created on Thu Apr 30 15:12:00 2026
 
-@author: User
+@author: dipak
 """
 # -*- coding: utf-8 -*-
 """
 Created on Fri Apr 17 12:57:31 2026
 
-@author: harshvardhan Gaikwad
+@author: dipak
 """
 student = {}
 student["name"] = "Rahul"
